@@ -15,11 +15,11 @@
 
 <p align="start" >
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shoko118&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoko118&show_icons=true&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Shoko118&show_icons=true&theme=tokyonight" /> -->
   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoko118&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=Shoko118&theme=tokyonight&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoko118&layout=compact&theme=radical" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoko118&layout=compact&theme=radical" /> -->
 </p>
 
 
