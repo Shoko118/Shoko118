@@ -1,11 +1,10 @@
 
-<!-- <p align="center">
+<p align="center">
   <samp>
-    <a href="">portfolio</a> .
-    <a href="">discord</a> .
-    <a href="">LinkedIn</a>
+    <a href="https://bry-portfolio.netlify.app/">portfolio</a> .
+<!--     <a href="">LinkedIn</a> -->
   </samp>
-</p> -->
+</p>
 
 <div id="badges"  align="start">
 
