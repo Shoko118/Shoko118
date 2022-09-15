@@ -1,10 +1,5 @@
 
-<p align="center">
-  <samp>
-    <a href="https://bry-portfolio.netlify.app/">portfolio</a> .
-<!--     <a href="">LinkedIn</a> -->
-  </samp>
-</p>
+
 
 <div id="badges"  align="start">
 
@@ -14,4 +9,11 @@
 
 <!-- <p align="start" >
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shoko118&theme=tokyonight" />
+</p> -->
+
+
+<!-- <p align="center">
+  <samp>
+    <a href="https://bry-portfolio.netlify.app/">portfolio</a> .
+  </samp>
 </p> -->
